@@ -5,7 +5,7 @@ I'm a guy from Colombia, i'm currently learning python
 
 ## I'm passioned about...
 1. Games.
-2. Puzzles.
+2. Hard Puzzles.
 <!--
 Here are some ideas to get you started:
 
