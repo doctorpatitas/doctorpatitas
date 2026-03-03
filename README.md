@@ -4,9 +4,8 @@
 I'm a guy from Colombia, i'm currently learning python
 
 ## I'm passioned about...
-Games.
-Puzzles. 
-
+1. Games.
+2. Puzzles.
 <!--
 Here are some ideas to get you started:
 
