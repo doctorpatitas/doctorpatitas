@@ -6,6 +6,7 @@ I'm a guy from Colombia, i'm currently learning python
 ## I'm passioned about...
 1. Games.
 2. Hard Puzzles.
+3. Eat Salchipapa
 <!--
 Here are some ideas to get you started:
 
