@@ -3,7 +3,7 @@
 ## I'm Diego Gonzalez
 I'm a guy from Colombia, i'm currently learning python
 
-##I'm passioned about...
+## I'm passioned about...
 Games.
 Puzzles. 
 
