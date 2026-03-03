@@ -1,7 +1,12 @@
 # Hi there 👋
 
 ## I'm Diego Gonzalez
-Hoalp
+I'm a guy from Colombia, i'm currently learning python
+
+##I'm passioned about...
+Games.
+Puzzles. 
+
 <!--
 Here are some ideas to get you started:
 
