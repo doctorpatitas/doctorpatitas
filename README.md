@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# I'm Diego Gonzalez
+## I'm Diego Gonzalez
 
 <!--
 Here are some ideas to get you started:
