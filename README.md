@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I'm Diego Gonzalez
-I'm a guy from Colombia, i'm currently learning python
+I'm currently learning python
 
 ## I'm passioned about...
 1. Games.
